@@ -1,6 +1,6 @@
 # Constellation Recognition Software
 
-## The idea of the project is analysing star data in order to recognize constellation patterns in the sky, using computer vision.
+## The goal of the project is analysing star data in order to recognize constellation patterns in the sky, using computer vision.
 
 ### This is an AI constellation recognition project, using unsupervised learning computer vision with a YOLOv8 model. The dataset is available on roboflow to download.
 
